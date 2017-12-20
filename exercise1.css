@@ -1,0 +1,11 @@
+body{background-color: #ffe6f0;
+ }
+h1{color: red;
+    text-align: center;
+    text-shadow: 3px 3px black;
+}
+p {color: blue}
+.else{color: deeppink}
+#java {color: red;
+background-color: chartreuse;
+border: 3px dashed red;}

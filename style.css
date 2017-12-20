@@ -1,0 +1,27 @@
+body{
+    background-image: url(zebra.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-size: 1500px; 
+    
+}
+.lionImg {border: 2px solid blue;
+    border-bottom:10px dashed blueviolet
+    
+}
+
+
+
+.container {
+    /*background: linear-gradient( #4da6ff , #0059b3,  #e600e6,  #ffff66
+
+)
+;
+box-shadow: 7px 7px ;*/
+}
+
+h1{color: aliceblue;
+    text-shadow: 9px 9px 4px  #ffb3d1;
+
+}
